@@ -1,19 +1,17 @@
 #include <MIDI.h>
 #include <SoftwareSerial.h>
 ///////////////////////////////////////////////////////////////////////////////////////////
-// Nombre del programa: MIDI_Controller
-// Escrito por:          Michael Balzer
-// Adaptado por:         César Darío García Jiménez 
+// Name : MIDI_Controller
+// Written by:   Michael Balzer
+// Modified by:  César Darío García Jiménez 
 // Fecha: 02/05/2013
 // Versión 1.0
 //
-//     Descripción:     Este programa utiliza 6 botones y 5 potenciómetros como entrada
-//                      Y devuelve sus valores al ordenador como mensajes "MIDI", con el fin de utilizar dicho sistema en conjunto con otro software 
-//                      de audio como FL Studio, Cubase o Traktor.
-//                      Nota: No tiene el conector MIDI estandar soldado a la placa para la salida de datos,
-//                      En su lugar utiliza un software llamado "hairless MIDI <-> Serial Bridge" y un driver llamado Midiyoke.
-//                      Para tomar los datos del puerto en serie de la arduino uno y emularlo en el ordenador como entrada MIDI
-//                      Para nuestro software. http://projectgus.github.com/hairless-midiserial/
+//     Description:  This program is designed to work with 6 buttons and 5 potentiometers as input, the program sends the values as MIDI 
+//                   messages usefull to work with audio DAWs or VST's.
+//                   If your hardware doesn't have a midi output setup you can use a MIDI emulator like ""hairless MIDI <-> Serial Bridge"
+//                   to parse the serial signal from the arduino using the regular usb conector.
+//                   (midi emulator site: http://projectgus.github.com/hairless-midiserial/)
 //
 // This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 // See http://creativecommons.org/licenses/by-nc-sa/3.0/ for license details.
