@@ -1,5 +1,3 @@
-#include <MIDI.h>
-#include <SoftwareSerial.h>
 ///////////////////////////////////////////////////////////////////////////////////////////
 // Name : MIDI_Controller
 // Written by:   Michael Balzer
@@ -16,6 +14,9 @@
 // This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 // See http://creativecommons.org/licenses/by-nc-sa/3.0/ for license details.
 ///////////////////////////////////////////////////////////////////////////////////////////
+
+#include <MIDI.h>
+#include <SoftwareSerial.h>
 
 // MIDI mapping taken from http://www.nortonmusic.com/midi_cc.html
 #define MIDI_CC_MODULATION 0x01
@@ -98,7 +99,7 @@
 
 /*
 // The next code define the order of lecture for our digital pins, originally the code was designed for a "midi fighter" model with 12 buttons,
-// but i only set 6 buttons so, the original comment that explain this order was this:
+// but I only set 6 buttons so, the original comment that explain this order was this:
 
   // When mapping to a MIDI Fighter we need to skip a row of buttons. Set this from 0-3 to define which row to skip.
   // Rows are ordered from bottom to top (same as the MIDI Fighter's button layout).
