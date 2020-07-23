@@ -1,4 +1,4 @@
-# Arduino MIDI Controller :tw-1f3a7:
+# Arduino MIDI Controller :musical_note:
 
 **In this program I have use an arduino uno board as a MIDI controller.**    
 This mixer can be used along with other audio editing/mixing software like FL studio, Cubase or Traktor.
@@ -21,5 +21,7 @@ llamado Midiyoke, to read that signal as a physical MIDI input connected to the 
 
 ** Videos testing the midi controller using virtual DJ **
 This videos has been uploaded to streamable:
+
 Video #1; https://streamable.com/e/vuhj72
+
 Video #2; https://streamable.com/e/fuf9rl
