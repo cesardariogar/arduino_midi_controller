@@ -9,17 +9,17 @@ llamado Midiyoke, to read that signal as a physical MIDI input connected to the 
 
 ![](https://i.ibb.co/zxtFNwQ/emulador.png)
 
-**First I used a paper box **  
+**First I used a paper box**  
 ![](https://i.ibb.co/yB9dyPR/IMG-1118.jpg)
 
-**Then I decided to change how it looks so I moved it to another box :) **
+**Then I decided to change how it looks so I moved it to another box**
 ![](https://i.ibb.co/p2FkyDw/IMG-1122.jpg)
 ![](https://i.ibb.co/64h5RW7/IMG-1123.jpg)
 
 **I used it with virtual dj, traktor and FL studio and it worked well, and had fun using it**
 ![](https://i.ibb.co/sQk05Ns/IMG-1124.jpg)
 
-**Videos testing the midi controller using virtual DJ **
+**Videos testing the midi controller using virtual DJ**
 This videos has been uploaded to streamable:
 
 Video #1; https://streamable.com/e/vuhj72
