@@ -1,6 +1,6 @@
 # Arduino MIDI Controller :musical_note:
 
-**In this program I have use an arduino uno board as a MIDI controller.**    
+**In this project I have use an arduino uno board as a MIDI controller.**    
 This mixer can be used along with other audio editing/mixing software like FL studio, Cubase or Traktor.
 
 Since this program is developed to send MIDI signals through the serial port of the arduino, it is needed to use another software
