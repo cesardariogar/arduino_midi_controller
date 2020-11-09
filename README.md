@@ -20,8 +20,7 @@ llamado Midiyoke, to read that signal as a physical MIDI input connected to the 
 ![](https://i.ibb.co/sQk05Ns/IMG-1124.jpg)
 
 **Videos testing the midi controller using virtual DJ**
-This videos has been uploaded to streamable:
+Please check them manually at the root of the repository :)
 
-Video #1; https://streamable.com/e/vuhj72
+Thank you for your visit here.
 
-Video #2; https://streamable.com/e/fuf9rl
