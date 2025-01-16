@@ -15,7 +15,7 @@ Another option (instructions not included here) would be to add the MIDI coverte
 
 ![](https://i.ibb.co/zxtFNwQ/emulador.png)
 
-**Initially I used a paper box for the body**  
+**Initially I used a paper box for the body (excuse my mess, this was the POC phase so I only lazily taped until I was sure it worked...)**  
 ![](https://i.ibb.co/yB9dyPR/IMG-1118.jpg)
 
 **Then I decided to move it to a plastic box that I adapted**
