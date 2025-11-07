@@ -1,6 +1,11 @@
 # Arduino MIDI Controller :musical_note:
 
-==Edit: please excuse the quality of this project, I made it when I was young in ~2006 for school.==
+***
+`
+Notes:
+please excuse the quality of this project, I made it when I was young in ~2006 for school.
+`
+***
 
 This project was based on a "MIDI Fighter" project from Instructables.com, I had adapted the original code a bit to work with my layout but honor to the original author of this:
 https://www.instructables.com/Arcade-Button-MIDI-Controller/
